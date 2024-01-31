@@ -1,0 +1,9 @@
+git checkout -b gh-pages
+
+/Index.html
+/script.js
+/styles.css
+
+git add .
+git commit -m "Organize website files"
+git push origin gh-pages
